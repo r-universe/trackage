@@ -1,0 +1,14 @@
+[
+  {
+    "package": "traipse",
+    "oncran": true
+  },
+  {
+    "package": "trip",
+    "oncran": true
+  },
+  {
+    "package": "tripEstimation",
+    "oncran": false
+  }
+]
