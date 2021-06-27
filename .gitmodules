@@ -15,6 +15,6 @@
 	registered = true
 [submodule "tripEstimation"]
 	path = tripEstimation
-	url = https://github.com/Trackage/tripEstimation
+	url = https://github.com/trackage/tripestimation
 	shallow = true
 	registered = true

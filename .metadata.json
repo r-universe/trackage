@@ -9,6 +9,6 @@
   },
   {
     "package": "tripEstimation",
-    "oncran": false
+    "oncran": true
   }
 ]
