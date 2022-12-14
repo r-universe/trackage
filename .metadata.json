@@ -4,9 +4,6 @@
     "oncran": true
   },
   {
-    "package": "trip"
-  },
-  {
     "package": "tripEstimation",
     "oncran": true
   }
