@@ -8,6 +8,11 @@
 	url = https://github.com/trackage/traipse
 	shallow = true
 	registered = true
+[submodule "trip"]
+	path = trip
+	url = https://github.com/trackage/trip
+	shallow = true
+	registered = true
 [submodule "tripEstimation"]
 	path = tripEstimation
 	url = https://github.com/trackage/tripestimation
